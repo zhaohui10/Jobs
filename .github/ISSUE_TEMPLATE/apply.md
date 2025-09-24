@@ -10,12 +10,13 @@ assignees: []
 - Full Name:  
 - Email:  
 - LinkedIn / Portfolio:  
-- Yrs of Relevant Experience:  
-- Upload Link (PDF only):  <!-- 建议用 Google Drive / OneDrive 公开链接 -->
-- Hourly Rate / Salary Expectation (MYR):  
+- Years of Relevant Experience:  
+- CV Upload Link (PDF only):  <!-- Please paste a publicly accessible Google Drive / OneDrive link -->
+- Expected Hourly Rate / Salary (MYR):  
 
 ## 💡 Quick Intro  
-<!-- 两三句话介绍最亮点的项目或技能 -->
+<!-- Briefly highlight your strongest project or skill (2-3 sentences) -->
 
 ## 🗓️ Availability  
-<!-- 可开始日期、每周可投入小时 -->
+<!-- When can you start & how many hours per week can you commit? -->
+
