@@ -1,0 +1,8 @@
+# Disable blank issues so that candidates must use the template
+blank_issues_enabled: false
+
+# Extra links shown on the "New Issue" page
+contact_links:
+  - name: 🚀 View All Open Roles
+    url: https://<your-username>.github.io/jobs
+    about: Read full job descriptions and requirements
