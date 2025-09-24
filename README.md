@@ -31,8 +31,6 @@ Open positions in Kuala Lumpur, Malaysia
 - Flexible hours, **remote-first**, quarterly meet-up budget
 
 ## 📬 Apply
-Drop your **CV (PDF)** or LinkedIn to  
-📧 `hire@<company>.com`  
-or open an issue below — we'll reply within **24 h**.
+Open an issue below — we'll reply within **24 h**.
 
 Labels: `help wanted`  `java` `spring-boot` `devops`   
